@@ -1,4 +1,4 @@
-![XYSlime](https://github.com/XYSlime/.github/raw/main/res/xyslime_cover.png)
+![XYSlime](/res/xyslime_cover.svg)
 
 [![github](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DXYSlime&labelColor=2c3139&color=009f8f&logo=github&longCache=true)](https://github.com/XYSlime)
 [![bilibili](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00a1d6&labelColor=2c3139&label=BiliBili&suffix=%20followers&query=%24.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=481147459&jsonp=jsonp&logo=Bilibili&logoColor=ffffff&longCache=true)](https://space.bilibili.com/481147459)
